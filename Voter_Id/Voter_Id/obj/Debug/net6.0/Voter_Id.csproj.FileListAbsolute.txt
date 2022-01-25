@@ -1,0 +1,15 @@
+C:\c#\Voter_Id\Voter_Id\bin\Debug\net6.0\Voter_Id.exe
+C:\c#\Voter_Id\Voter_Id\bin\Debug\net6.0\Voter_Id.deps.json
+C:\c#\Voter_Id\Voter_Id\bin\Debug\net6.0\Voter_Id.runtimeconfig.json
+C:\c#\Voter_Id\Voter_Id\bin\Debug\net6.0\Voter_Id.dll
+C:\c#\Voter_Id\Voter_Id\bin\Debug\net6.0\ref\Voter_Id.dll
+C:\c#\Voter_Id\Voter_Id\bin\Debug\net6.0\Voter_Id.pdb
+C:\c#\Voter_Id\Voter_Id\obj\Debug\net6.0\Voter_Id.csproj.AssemblyReference.cache
+C:\c#\Voter_Id\Voter_Id\obj\Debug\net6.0\Voter_Id.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Voter_Id\Voter_Id\obj\Debug\net6.0\Voter_Id.AssemblyInfoInputs.cache
+C:\c#\Voter_Id\Voter_Id\obj\Debug\net6.0\Voter_Id.AssemblyInfo.cs
+C:\c#\Voter_Id\Voter_Id\obj\Debug\net6.0\Voter_Id.csproj.CoreCompileInputs.cache
+C:\c#\Voter_Id\Voter_Id\obj\Debug\net6.0\Voter_Id.dll
+C:\c#\Voter_Id\Voter_Id\obj\Debug\net6.0\ref\Voter_Id.dll
+C:\c#\Voter_Id\Voter_Id\obj\Debug\net6.0\Voter_Id.pdb
+C:\c#\Voter_Id\Voter_Id\obj\Debug\net6.0\Voter_Id.genruntimeconfig.cache
