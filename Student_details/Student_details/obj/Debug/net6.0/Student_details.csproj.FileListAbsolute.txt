@@ -1,0 +1,15 @@
+C:\c#\Student_details\Student_details\bin\Debug\net6.0\Student_details.exe
+C:\c#\Student_details\Student_details\bin\Debug\net6.0\Student_details.deps.json
+C:\c#\Student_details\Student_details\bin\Debug\net6.0\Student_details.runtimeconfig.json
+C:\c#\Student_details\Student_details\bin\Debug\net6.0\Student_details.dll
+C:\c#\Student_details\Student_details\bin\Debug\net6.0\ref\Student_details.dll
+C:\c#\Student_details\Student_details\bin\Debug\net6.0\Student_details.pdb
+C:\c#\Student_details\Student_details\obj\Debug\net6.0\Student_details.csproj.AssemblyReference.cache
+C:\c#\Student_details\Student_details\obj\Debug\net6.0\Student_details.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Student_details\Student_details\obj\Debug\net6.0\Student_details.AssemblyInfoInputs.cache
+C:\c#\Student_details\Student_details\obj\Debug\net6.0\Student_details.AssemblyInfo.cs
+C:\c#\Student_details\Student_details\obj\Debug\net6.0\Student_details.csproj.CoreCompileInputs.cache
+C:\c#\Student_details\Student_details\obj\Debug\net6.0\Student_details.dll
+C:\c#\Student_details\Student_details\obj\Debug\net6.0\ref\Student_details.dll
+C:\c#\Student_details\Student_details\obj\Debug\net6.0\Student_details.pdb
+C:\c#\Student_details\Student_details\obj\Debug\net6.0\Student_details.genruntimeconfig.cache
